@@ -1,0 +1,1 @@
+python "Spotify Account Generator.py"
